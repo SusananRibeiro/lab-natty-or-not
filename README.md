@@ -1,15 +1,15 @@
 # O que é o amor?
 
 ## 📒 Descrição
-Este e-book de 11 páginas traz a curiosidade de uma criança quando pergunta para a avó "O que é o amor?".
+Este e-book de 11 páginas, traz a curiosidade de uma criança quando pergunta para a avó "O que é o amor?".
 
-## 🤖 Tecnologias Utilizadas
+## 📒 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e criar a arte visual do e-book;
 - Ferramenta **Photoshop** para edição.
 - Ferramenta **[I Love PDF](https://www.ilovepdf.com/pt/jpg_para_pdf)** para converter as imagens em PDF.
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para criar o texto e as imagens. O Photoshop para deixar as imagens organizados no formato desejado e tamanho A4 e o I Love PDF para converter as imagens em PDF.
+## 📒 Processo de Criação
+Utilizei o "ChatGPT" para criar o texto e as imagens. O Photoshop para deixar as imagens organizadas no formato desejado e tamanho A4 e o I Love PDF para converter as imagens em PDF.
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação infantil.
